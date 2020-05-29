@@ -1,0 +1,446 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Our ProjectWork
+</name>
+</assembly>
+<members>
+<member name="T:Our_ProjectWork.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources._0513vsm_Champion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources._3clfryf">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources._3d8064758e54ec662e076b6ca54aa90e">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.admin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.admin2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.ChangePassword">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.dpsschool">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.ghana_school">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.glenwood_lg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.gwiramann_community_school">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.Loading_Full">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.log">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.login_img1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.SAM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.Screen_Shot_2014_01_31_at_4_38_56_PM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.tumblr_n8iuseEKSr1tg7xcdo1_500">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.UPPER">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.UPPER1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Our_ProjectWork.My.Resources.Resources.UPPER2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.PRINTDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.PRINTDataSet1.DataTable1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.PRINTDataSet1.DataTable1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.PRINTDataSet1.DataTable1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Our_ProjectWork.PRINTDataSet1TableAdapters.DataTable1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.PRINTDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Our_ProjectWork.PRINTDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Our_ProjectWork.PRINTDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Our_ProjectWork.PRINTDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Our_ProjectWork.PRINTDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Our_ProjectWork.PRINTDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Our_ProjectWork.PRINTDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Our_ProjectWork.PRINTDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Our_ProjectWork.PRINTDataSet1TableAdapters.TableAdapterManager.UpdateAll(Our_ProjectWork.PRINTDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.PRINTDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Our_ProjectWork.PRINTDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet.TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet.TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet.TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSetTableAdapters.TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Our_ProjectWork.SCHOOLDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Our_ProjectWork.SCHOOLDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Our_ProjectWork.SCHOOLDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSetTableAdapters.TableAdapterManager.UpdateAll(Our_ProjectWork.SCHOOLDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet1.StaffDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet1.StaffRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet1.StaffRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet1TableAdapters.StaffTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Our_ProjectWork.SCHOOLDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Our_ProjectWork.SCHOOLDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Our_ProjectWork.SCHOOLDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSet1TableAdapters.TableAdapterManager.UpdateAll(Our_ProjectWork.SCHOOLDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet2.ScoretableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet2.ScoretableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet2.ScoretableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet2TableAdapters.ScoretableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(Our_ProjectWork.SCHOOLDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(Our_ProjectWork.SCHOOLDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(Our_ProjectWork.SCHOOLDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSet2TableAdapters.TableAdapterManager.UpdateAll(Our_ProjectWork.SCHOOLDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet3.StudentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet3.StudentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet3.StudentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet3TableAdapters.StudentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(Our_ProjectWork.SCHOOLDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(Our_ProjectWork.SCHOOLDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(Our_ProjectWork.SCHOOLDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Our_ProjectWork.SCHOOLDataSet3TableAdapters.TableAdapterManager.UpdateAll(Our_ProjectWork.SCHOOLDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Our_ProjectWork.SCHOOLDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

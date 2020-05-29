@@ -1,0 +1,1 @@
+﻿insert into Admin(Username,Password)Values("Admin","Admin1");

@@ -1,0 +1,88 @@
+c:\users\user\documents\visual studio 2013\Projects\Our ProjectWork\Our ProjectWork\bin\Debug\Our ProjectWork.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Our ProjectWork\Our ProjectWork\bin\Debug\Our ProjectWork.exe
+c:\users\user\documents\visual studio 2013\Projects\Our ProjectWork\Our ProjectWork\bin\Debug\Our ProjectWork.pdb
+c:\users\user\documents\visual studio 2013\Projects\Our ProjectWork\Our ProjectWork\bin\Debug\Our ProjectWork.xml
+c:\users\user\documents\visual studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our ProjectWork.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our ProjectWork.exe
+c:\users\user\documents\visual studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our ProjectWork.xml
+c:\users\user\documents\visual studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our ProjectWork.pdb
+c:\users\user\documents\visual studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.SecondSplash.resources
+c:\users\user\documents\visual studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.Splash.resources
+c:\users\user\documents\visual studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.SplashThree.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.LogIN.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.Register.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.MDI.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.STUDENTREG.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.ASSESSMENT.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.AdminLog.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.ADMINVIEWRECORDS.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.StaffRecords.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.StudentRecords.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.StudentLogIn.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.ShowLogs.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.ResultView.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.UPDATERECORDS.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.STUDENTRESULTS.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.LOGIN_FORM.resources
+C:\Users\USER\documents\visual studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.AssessmentForm.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.STUDENTREGVIEWER.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.UpdateStudentRecords.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.PRINTRESULT.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.RegTRY.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.GENERALRESULTS.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\bin\Debug\SCHOOL.mdf
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\bin\Debug\SCHOOL_log.ldf
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.DashBoard.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\bin\Debug\Our ProjectWork.exe.manifest
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\bin\Debug\Our ProjectWork.application
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our ProjectWork.exe.manifest
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our ProjectWork.application
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our ProjectWork.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\RdlCompile.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\RdlCompile.compiled
+F:\Projects\Our ProjectWork\Our ProjectWork\bin\Debug\Our ProjectWork.exe.config
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our ProjectWork.exe
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our ProjectWork.xml
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our ProjectWork.pdb
+F:\Projects\Our ProjectWork\Our ProjectWork\bin\Debug\SCHOOL.mdf
+F:\Projects\Our ProjectWork\Our ProjectWork\bin\Debug\SCHOOL_log.ldf
+F:\Projects\Our ProjectWork\Our ProjectWork\bin\Debug\Our ProjectWork.exe.manifest
+F:\Projects\Our ProjectWork\Our ProjectWork\bin\Debug\Our ProjectWork.application
+F:\Projects\Our ProjectWork\Our ProjectWork\bin\Debug\Our ProjectWork.exe
+F:\Projects\Our ProjectWork\Our ProjectWork\bin\Debug\Our ProjectWork.pdb
+F:\Projects\Our ProjectWork\Our ProjectWork\bin\Debug\Our ProjectWork.xml
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our ProjectWork.vbprojResolveAssemblyReference.cache
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.AdminLog.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.ADMINVIEWRECORDS.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.ASSESSMENT.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.AssessmentForm.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.DashBoard.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.Form1.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.GENERALRESULTS.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.LogIN.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.LOGIN_FORM.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.MDI.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.Resources.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.PRINTRESULT.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.Register.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.RegTRY.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.ResultView.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.SecondSplash.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.ShowLogs.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.Splash.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.SplashThree.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.StaffRecords.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.StudentLogIn.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.StudentRecords.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.STUDENTREG.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.STUDENTREGVIEWER.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.STUDENTRESULTS.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.UpdateStudentRecords.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our_ProjectWork.UPDATERECORDS.resources
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our ProjectWork.vbproj.GenerateResource.Cache
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\RdlCompile.cache
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\RdlCompile.compiled
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our ProjectWork.exe.manifest
+F:\Projects\Our ProjectWork\Our ProjectWork\obj\Debug\Our ProjectWork.application
